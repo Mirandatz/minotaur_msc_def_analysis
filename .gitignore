@@ -1,3 +1,5 @@
 # PyCharm stuff
 .idea/
 .ipynb_checkpoints/
+
+*.exe

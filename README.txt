@@ -1,0 +1,1 @@
+MINOTAUR version used: https://github.com/Mirandatz/minotaur/tree/7f1bd738e74e558cb1da671813b39afcf56d7439

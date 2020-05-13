@@ -2,6 +2,10 @@
 .idea/
 .ipynb_checkpoints/
 
+
+/__pycache__/
+
 *.exe
 /datasets/
 /minotaur_output/
+/analysis_output/
